@@ -1,4 +1,4 @@
-version: '24.0.6' # docker version
+version: '3' # docker version
 services:
   www:
     image: php:apache
